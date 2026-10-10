@@ -1,5 +1,10 @@
 # Python Code Complexity Analyzer
 
+## Screenshot
+
+![Code Complexity Analyzer GUI](gui_screenshot.png)
+
+
 This project checks a Python file or a whole folder and shows basic code metrics. It uses Python's built-in `ast` module to inspect code without running it and `pathlib` to find files. You can use the terminal version or the Tkinter GUI. Both use the same analysis code and Python's standard library.
 
 ## Run the GUI
