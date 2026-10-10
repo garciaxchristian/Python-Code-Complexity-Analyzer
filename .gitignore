@@ -1,0 +1,12 @@
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local secrets and macOS metadata
+.env
+.env.*
+!.env.example
+.DS_Store

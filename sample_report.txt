@@ -1,0 +1,12 @@
+Folder Complexity Report: Code Complexity Analyzer Test
+File       Lines  Functions  Classes    For  While  Total loops    Ifs  Depth   Score
+-------------------------------------------------------------------------------------
+hard.py        6          1        0      2      0            2      2      4   10/10
+medium.py      8          1        0      1      0            1      1      1    5/10
+easy.py        3          1        0      0      0            0      0      0    2/10
+
+Most complex file(s), score 10/10:
+  hard.py
+Lines include blanks/comments. Loops = for + while.
+
+Analyzed: 3 file(s). Failed: 0 file(s).
